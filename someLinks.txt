@@ -1,0 +1,31 @@
+Syscall :
+
+x64 -> https://filippo.io/linux-syscall-table/
+	-> http://blog.rchapman.org/post/36801038863/linux-system-call-table-for-x86-64
+
+x32 -> docs.cs.up.ac.za/programming/asm/derick_tut/syscalls.html
+
+Tuto Syscall -> http://www.x86-64.org/documentation/abi.pdf
+
+ 
+Some tutos :
+
+https://nets.ec/Alphanumeric_shellcode
+www.re-xe.fr/shellcode-x86-et-x86_64/
+
+Cheat sheet ASM :
+
+http://cs.brown.edu/courses/cs033/docs/guides/x64.pdf
+https://www.cs.cmu.edu/~fp/courses/15213-s07/misc/asm64-handout.pdf
+
+Some shellcode with explanation :
+
+https://www.csee.umbc.edu/portal/help/nasm/sample_64.shtml
+
+16 bits ASM :
+
+http://minso.free.fr/cavinfo/programmation/asm.html
+
+Shellcoding for windows and linux tuts :
+
+http://www.vividmachines.com/shellcode/shellcode.html
